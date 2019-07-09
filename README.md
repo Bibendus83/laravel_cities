@@ -17,7 +17,7 @@ What you dont get:
 
 # Instructions
 	
-- Install with copmoser. Run:
+- Install with composer. Run:
 
 `composer require igaster/laravel_cities`
 
