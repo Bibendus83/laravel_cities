@@ -192,7 +192,7 @@ The response is always a JSON representation of either a Geo class or a Collecti
 
 To reduce bandwith, all Geo model attributes will be returned except from `alternames`, `left`, `right` and `depth`. You can change this behavior by passing an optional parameter on any request:
 
-| URL Params (aplly to all routes)  | Description                             | Example                         |
+| URL Params (apply to all routes)  | Description                             | Example                         |
 |-----------------------------------|-----------------------------------------|---------------------------------|
 |fields=field1,field2               | Returns only the specified attributes   | api/geo/countries?fields=id,name|
 |fields=all                         | Returns all attributes                  | api/geo/countries?fields=all    |
